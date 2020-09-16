@@ -1,0 +1,4 @@
+[submodule "git-submodule-tutorial"]
+	path = git-submodule-tutorial
+	url = https://github.com/Maxime-CLS/git-submodule-tutorial.git
+	branch = master
